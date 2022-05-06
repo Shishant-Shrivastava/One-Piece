@@ -1,1 +1,1 @@
-print("Forth file")
+print("Forth file, Python is dangerous,")
